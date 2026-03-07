@@ -1,0 +1,10 @@
+forward-logs-shared.ts:95 Download the React DevTools for a better development experience: https://react.dev/link/react-devtools
+forward-logs-shared.ts:95 [HMR] connected
+page.tsx:82 DEBUG: FFmpeg Loaded
+page.tsx:190 DEBUG: Called recognition.start()
+page.tsx:96 DEBUG: Speech Recognition Started
+page.tsx:108 DEBUG: Speech detected -> 麥克風測試麥克風測試
+page.tsx:117 DEBUG: Gemini response -> 收音非常清晰
+page.tsx:98 DEBUG: Speech Recognition Ended
+page.tsx:100 DEBUG: Restarting Recognition...
+page.tsx:96 DEBUG: Speech Recognition Started
